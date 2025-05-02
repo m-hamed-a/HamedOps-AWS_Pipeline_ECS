@@ -1,0 +1,6 @@
+[
+  {
+    "name": "hamedops-container",
+    "imageUri": "081148469557.dkr.ecr.us-west-2.amazonaws.com/hamedops:latest"
+  }
+]
